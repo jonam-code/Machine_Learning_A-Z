@@ -8,6 +8,7 @@
 	* Dealing with missing data
 	* Splitting the data into test set and training set
 	* Feature Scalling
+	
 2. **Regression**
 	* Simple Linear Regression
 	* Multiple Linear Regression
